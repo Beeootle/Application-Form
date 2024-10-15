@@ -1,0 +1,2 @@
+#INFO
+  new project
